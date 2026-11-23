@@ -1,0 +1,1 @@
+v2.7.3: fixed a bug where the brain deleted the reason you entered a room the moment you crossed the doorway.
